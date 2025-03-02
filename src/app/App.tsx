@@ -1,7 +1,8 @@
 import { FC } from "react";
+import { AppRouter } from "./routes/routes";
 
 export const App: FC = () => {
     return (
-        <div className="bg-[#06080C] h-dvh w-full">PRIVET MIR</div>
+        <AppRouter />
     )
 }
