@@ -162,5 +162,194 @@ export const matches: Match[] = [
         "homeScore": 1,
         "awayScore": 3,
         "status": "Scheduled"
+    },
+    {
+        "time": "2025-03-04T14:45:00Z",
+        "title": "Sharks vs Cobras",
+        "homeTeam": {
+            "name": "Command №1",
+            "players": [
+                { "username": "WaveMaster", "kills": 7 },
+                { "username": "DeepSea", "kills": 4 }
+            ],
+            "points": 8,
+            "place": 6,
+            "total_kills": 17
+        },
+        "awayTeam": {
+            "name": "Command №2",
+            "players": [
+                { "username": "Venom", "kills": 9 },
+                { "username": "Strike", "kills": 7 }
+            ],
+            "points": 13,
+            "place": 1,
+            "total_kills": 22
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "status": "Scheduled"
+    },
+    {
+        "time": "2025-03-04T14:45:00Z",
+        "title": "Sharks vs Cobras",
+        "homeTeam": {
+            "name": "Command №1",
+            "players": [
+                { "username": "WaveMaster", "kills": 7 },
+                { "username": "DeepSea", "kills": 4 }
+            ],
+            "points": 8,
+            "place": 6,
+            "total_kills": 17
+        },
+        "awayTeam": {
+            "name": "Command №2",
+            "players": [
+                { "username": "Venom", "kills": 9 },
+                { "username": "Strike", "kills": 7 }
+            ],
+            "points": 13,
+            "place": 1,
+            "total_kills": 22
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "status": "Scheduled"
+    }
+    ,{
+        "time": "2025-03-04T14:45:00Z",
+        "title": "Sharks vs Cobras",
+        "homeTeam": {
+            "name": "Command №1",
+            "players": [
+                { "username": "WaveMaster", "kills": 7 },
+                { "username": "DeepSea", "kills": 4 }
+            ],
+            "points": 8,
+            "place": 6,
+            "total_kills": 17
+        },
+        "awayTeam": {
+            "name": "Command №2",
+            "players": [
+                { "username": "Venom", "kills": 9 },
+                { "username": "Strike", "kills": 7 }
+            ],
+            "points": 13,
+            "place": 1,
+            "total_kills": 22
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "status": "Scheduled"
+    }
+    ,{
+        "time": "2025-03-04T14:45:00Z",
+        "title": "Sharks vs Cobras",
+        "homeTeam": {
+            "name": "Command №1",
+            "players": [
+                { "username": "WaveMaster", "kills": 7 },
+                { "username": "DeepSea", "kills": 4 }
+            ],
+            "points": 8,
+            "place": 6,
+            "total_kills": 17
+        },
+        "awayTeam": {
+            "name": "Command №2",
+            "players": [
+                { "username": "Venom", "kills": 9 },
+                { "username": "Strike", "kills": 7 }
+            ],
+            "points": 13,
+            "place": 1,
+            "total_kills": 22
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "status": "Scheduled"
+    }
+    ,{
+        "time": "2025-03-04T14:45:00Z",
+        "title": "Sharks vs Cobras",
+        "homeTeam": {
+            "name": "Command №1",
+            "players": [
+                { "username": "WaveMaster", "kills": 7 },
+                { "username": "DeepSea", "kills": 4 }
+            ],
+            "points": 8,
+            "place": 6,
+            "total_kills": 17
+        },
+        "awayTeam": {
+            "name": "Command №2",
+            "players": [
+                { "username": "Venom", "kills": 9 },
+                { "username": "Strike", "kills": 7 }
+            ],
+            "points": 13,
+            "place": 1,
+            "total_kills": 22
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "status": "Scheduled"
+    }
+    ,{
+        "time": "2025-03-04T14:45:00Z",
+        "title": "Sharks vs Cobras",
+        "homeTeam": {
+            "name": "Command №1",
+            "players": [
+                { "username": "WaveMaster", "kills": 7 },
+                { "username": "DeepSea", "kills": 4 }
+            ],
+            "points": 8,
+            "place": 6,
+            "total_kills": 17
+        },
+        "awayTeam": {
+            "name": "Command №2",
+            "players": [
+                { "username": "Venom", "kills": 9 },
+                { "username": "Strike", "kills": 7 }
+            ],
+            "points": 13,
+            "place": 1,
+            "total_kills": 22
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "status": "Scheduled"
+    }
+    ,{
+        "time": "2025-03-04T14:45:00Z",
+        "title": "Sharks vs Cobras",
+        "homeTeam": {
+            "name": "Command №1",
+            "players": [
+                { "username": "WaveMaster", "kills": 7 },
+                { "username": "DeepSea", "kills": 4 }
+            ],
+            "points": 8,
+            "place": 6,
+            "total_kills": 17
+        },
+        "awayTeam": {
+            "name": "Command №2",
+            "players": [
+                { "username": "Venom", "kills": 9 },
+                { "username": "Strike", "kills": 7 }
+            ],
+            "points": 13,
+            "place": 1,
+            "total_kills": 22
+        },
+        "homeScore": 1,
+        "awayScore": 3,
+        "status": "Scheduled"
     }
 ]

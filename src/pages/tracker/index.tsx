@@ -13,9 +13,9 @@ export const Tracker: React.FC = () => {
   }, [fetchMatches]);
 
   return (
-    <div className="h-full w-full flex flex-col p-[2.625rem]">
+    <div className="h-full w-full flex flex-col p-[2.625rem] overflow-hidden max-h-dvh">
       {/* Header */}
-      <div className="flex flex-row justify-between">
+      <div className="flex flex-row justify-between sticky top-0 pb-2.5">
         <h1 className="italic text-[32px] font-tactic font-bold">
           Match Tracker
         </h1>
@@ -27,9 +27,9 @@ export const Tracker: React.FC = () => {
         </div>
       </div>
 
-      <div className="w-full h-full bg-transparent flex flex-col gap-[12px] py-5">
+      <div className="w-full h-full bg-transparent flex flex-col gap-[12px] pt-2.5 pb-5 overflow-y-auto">
         {isLoading
-          ? Array.from({ length: 3 }).map((_, i) => (
+          ? Array.from({ length: 7 }).map((_, i) => (
               <MatchCardSkeleton key={i} />
             ))
           : matches.map((match, i) => (
