@@ -15,7 +15,7 @@ export const TeamTitle: FC<TeamTitleProps> = ({
   return (
     <div className={clsx("bg-transparent flex flex-row items-center gap-[14px] text-base font-inter font-[500] p-4", classNames)}>
       {/* <Icon className="w-6 h-6 mr-2" /> */}
-      <img src="src/mock/teamIcon.png" />
+      <img src="/teamIcon.png" />
       <p>{name}</p>
     </div>
   );
